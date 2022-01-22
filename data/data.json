@@ -1,4 +1,4 @@
-{"cp_acvLst" : [
+[
 	{"cpDate" : "2021.12", "cpText" : "CP평가 AA등급 획득 (국내 건설사 유일)", "cpOpen" : true},
 	{"cpDate" : "2021.12", "cpText" : "공정거래 자율준수편람 11차 개정", "cpOpen" : false},
 	{"cpDate" : "2021.06", "cpText" : "공정거래 자율준수편람 10차 개정", "cpOpen" : false},
@@ -39,4 +39,4 @@
 	{"cpDate" : "2003.07", "cpText" : "공정거래 자율준수 프로그램 (CP)도입, 운영", "cpOpen" : true},
 	{"cpDate" : "2003.07", "cpText" : "자율준수관리자 임명 (이사회 의결 : 상임감사)", "cpOpen" : false},
 	{"cpDate" : "2003.07", "cpText" : "자율준수협의회 구성 (12개유관부서장)", "cpOpen" : false}
-]}
+]
